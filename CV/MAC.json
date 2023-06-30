@@ -15,6 +15,21 @@
       }
     }
   },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Computer Science Engineering",
+        "startDate": "2014-09-01",
+        "institution": {
+          "name": "University of Murcia",
+          "URL": "https://www.um.es/web/informatica/"
+        },
+        "finishDate": "2018-09-01"
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
