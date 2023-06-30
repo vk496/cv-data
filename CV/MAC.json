@@ -30,7 +30,13 @@
             "alt": "JACOyGI5_400x400.jpg"
           }
         },
-        "finishDate": "2018-09-01"
+        "finishDate": "2018-09-01",
+        "linkedCompetences": [
+          {
+            "name": "Arduino",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
