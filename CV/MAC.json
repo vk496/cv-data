@@ -24,7 +24,11 @@
         "startDate": "2014-09-01",
         "institution": {
           "name": "University of Murcia",
-          "URL": "https://www.um.es/web/informatica/"
+          "URL": "https://www.um.es/web/informatica/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/30/a1fa0234-4731-41f6-a2b8-5c8be7a56908_jacoygi5_400x400.jpg",
+            "alt": "JACOyGI5_400x400.jpg"
+          }
         },
         "finishDate": "2018-09-01"
       }
