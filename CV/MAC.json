@@ -16,6 +16,12 @@
     }
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
     "studies": [
       {
         "studyType": "officialDegree",
@@ -54,10 +60,6 @@
           },
           {
             "name": "SQL",
-            "type": "technology"
-          },
-          {
-            "name": "SSO",
             "type": "technology"
           }
         ]
