@@ -17,6 +17,12 @@
   },
   "careerPreferences": {
     "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://github.com/vk496",
+          "type": "github"
+        }
+      ],
       "contactMails": [
         "vk18496@gmail.com"
       ],
