@@ -47,6 +47,18 @@
           {
             "name": "JAVA",
             "type": "technology"
+          },
+          {
+            "name": "LDAP",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "SSO",
+            "type": "technology"
           }
         ]
       }
