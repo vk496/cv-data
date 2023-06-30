@@ -7,14 +7,24 @@
   "aboutMe": {
     "profile": {
       "name": "Valentin",
-      "surnames": "Surnames",
-      "title": "Title"
+      "surnames": "Kivachuk Burda",
+      "title": "Title",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJMVd4MymgVA0R99lHx5Y__Ws)",
+        "country": "Francia"
+      }
     }
   },
   "careerPreferences": {
     "contact": {
       "contactMails": [
         "vk18496@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "618173361",
+          "countryCode": "+33"
+        }
       ]
     },
     "status": "notAvailable"
