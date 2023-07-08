@@ -43,6 +43,28 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Internal VoIP",
+          "description": "Deployment of a VoIP PBX on a home router. Connected to a doorbell, domotic and the PSTN for  notifications and audio when someone is ringing outside."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-08-01",
+            "competences": [
+              {
+                "name": "Asterisk",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2022-10-01"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
@@ -155,5 +177,12 @@
       ]
     },
     "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "projects": [
+      {
+        "name": "Internal VoIP"
+      }
+    ]
   }
 }
