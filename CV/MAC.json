@@ -19,7 +19,8 @@
     "jobs": [
       {
         "organization": {
-          "name": "NXP Semiconductors"
+          "name": "NXP Semiconductors",
+          "URL": "https://www.nxp.com/company/about-nxp/worldwide-locations/france:FRANCE"
         },
         "roles": [
           {
