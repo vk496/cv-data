@@ -47,6 +47,35 @@
     "projects": [
       {
         "details": {
+          "name": "Zigbee2Mqtt",
+          "description": "Support of ZLinky, a Zigbee energy monitor device for Linky, a French national electricity meter",
+          "URL": "https://www.zigbee2mqtt.io/devices/ZLinky_TIC.html"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-12-01",
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2022-01-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Internal VoIP",
           "description": "Deployment of a VoIP PBX on a home router. Connected to a doorbell, domotic and the PSTN for  notifications and audio when someone is ringing outside."
         },
@@ -182,6 +211,9 @@
     "projects": [
       {
         "name": "Internal VoIP"
+      },
+      {
+        "name": "Zigbee2Mqtt"
       }
     ]
   }
