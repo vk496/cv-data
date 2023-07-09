@@ -145,6 +145,12 @@
           "name": "Leadership skills",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Proactivity",
+          "type": "practice"
+        }
       }
     ]
   },
