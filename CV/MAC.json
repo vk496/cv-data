@@ -47,26 +47,22 @@
     "projects": [
       {
         "details": {
-          "name": "Zisofs2",
-          "description": "Design and developed with Thomas Schmitt (author of xorriso) a evolution of zisofs, a transparent compression layer for ISO 9660. ",
-          "URL": "https://github.com/vk496/zisofs2-tools/blob/main/zisofs2_format.txt"
+          "name": "LINSET",
+          "description": "A social engineering tool for audit wireless WPA/WPA2 networks",
+          "URL": "https://github.com/vk496/linset"
         },
         "type": "openSource",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2020-10-01",
+            "startDate": "2013-11-01",
             "competences": [
               {
-                "name": "C",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
+                "name": "Bash",
                 "type": "technology"
               }
             ],
-            "finishDate": "2021-02-01"
+            "finishDate": "2014-06-01"
           }
         ]
       },
@@ -87,6 +83,31 @@
               }
             ],
             "finishDate": "2022-10-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Zisofs2",
+          "description": "Design and developed with Thomas Schmitt (author of xorriso) a evolution of zisofs, a transparent compression layer for ISO 9660. ",
+          "URL": "https://github.com/vk496/zisofs2-tools/blob/main/zisofs2_format.txt"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-10-01",
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2021-02-01"
           }
         ]
       },
@@ -232,6 +253,9 @@
     "projects": [
       {
         "name": "Internal VoIP"
+      },
+      {
+        "name": "LINSET"
       },
       {
         "name": "Zigbee2Mqtt"
