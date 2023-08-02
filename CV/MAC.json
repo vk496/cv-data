@@ -157,6 +157,24 @@
     "projects": [
       {
         "details": {
+          "name": "CodeCamp 18",
+          "URL": "https://www.um.es/infomun/codecamp/ediciones/2018/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/316064dc-cd22-4423-bfb8-b5742608eede_ed2018.png",
+            "alt": "ed2018.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-12-01",
+            "finishDate": "2018-02-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Zigbee2Mqtt",
           "description": "Support of ZLinky, a Zigbee energy monitor device for Linky, a French national electricity meter",
           "URL": "https://www.zigbee2mqtt.io/devices/ZLinky_TIC.html"
@@ -485,6 +503,9 @@
     "projects": [
       {
         "name": "CodeCamp 17"
+      },
+      {
+        "name": "CodeCamp 18"
       },
       {
         "name": "Internal VoIP"
