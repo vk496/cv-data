@@ -75,6 +75,10 @@
                 "type": "technology"
               },
               {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
                 "name": "NoSQL",
                 "type": "technology"
               },
