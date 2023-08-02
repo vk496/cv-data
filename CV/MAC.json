@@ -292,6 +292,12 @@
       },
       {
         "skill": {
+          "name": "Go",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Latex",
           "type": "technology"
         }
