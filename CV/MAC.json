@@ -352,6 +352,12 @@
       },
       {
         "skill": {
+          "name": "Travis CI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "TypeScript",
           "type": "technology"
         }
