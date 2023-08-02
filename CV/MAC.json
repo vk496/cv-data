@@ -8,7 +8,7 @@
     "profile": {
       "name": "Valentin",
       "surnames": "Kivachuk Burda",
-      "title": "DevOps Architect",
+      "title": "Software and Systems Engineer",
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJMVd4MymgVA0R99lHx5Y__Ws)",
         "country": "Francia"
@@ -48,42 +48,26 @@
     "projects": [
       {
         "details": {
-          "name": "LINSET",
-          "description": "A social engineering tool for audit wireless WPA/WPA2 networks",
-          "URL": "https://github.com/vk496/linset"
+          "name": "Zigbee2Mqtt",
+          "description": "Support of ZLinky, a Zigbee energy monitor device for Linky, a French national electricity meter",
+          "URL": "https://www.zigbee2mqtt.io/devices/ZLinky_TIC.html"
         },
         "type": "openSource",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2013-11-01",
+            "startDate": "2021-12-01",
             "competences": [
               {
-                "name": "Bash",
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               }
             ],
-            "finishDate": "2014-06-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Internal VoIP",
-          "description": "Deployment of a VoIP PBX on a home router. Connected to a doorbell, domotic and the PSTN for  notifications and audio when someone is ringing outside."
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-08-01",
-            "competences": [
-              {
-                "name": "Asterisk",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2022-10-01"
+            "finishDate": "2022-01-01"
           }
         ]
       },
@@ -114,26 +98,42 @@
       },
       {
         "details": {
-          "name": "Zigbee2Mqtt",
-          "description": "Support of ZLinky, a Zigbee energy monitor device for Linky, a French national electricity meter",
-          "URL": "https://www.zigbee2mqtt.io/devices/ZLinky_TIC.html"
+          "name": "Internal VoIP",
+          "description": "Deployment of a VoIP PBX on a home router. Connected to a doorbell, domotic and the PSTN for  notifications and audio when someone is ringing outside."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-08-01",
+            "competences": [
+              {
+                "name": "Asterisk",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2022-10-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "LINSET",
+          "description": "A social engineering tool for audit wireless WPA/WPA2 networks",
+          "URL": "https://github.com/vk496/linset"
         },
         "type": "openSource",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2021-12-01",
+            "startDate": "2013-11-01",
             "competences": [
               {
-                "name": "Github",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
+                "name": "Bash",
                 "type": "technology"
               }
             ],
-            "finishDate": "2022-01-01"
+            "finishDate": "2014-06-01"
           }
         ]
       }
@@ -160,6 +160,26 @@
       {
         "name": "RU",
         "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
@@ -204,26 +224,6 @@
           }
         ]
       }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Adaptability to change",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Leadership skills",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Proactivity",
-          "type": "practice"
-        }
-      }
     ]
   },
   "careerPreferences": {
@@ -251,6 +251,16 @@
     "status": "notAvailable"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Linux",
+        "type": "technology"
+      }
+    ],
     "projects": [
       {
         "name": "Internal VoIP"
