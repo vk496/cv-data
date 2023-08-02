@@ -298,6 +298,12 @@
       },
       {
         "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Go",
           "type": "technology"
         }
