@@ -368,6 +368,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "Bash",
+        "type": "technology"
+      },
+      {
         "name": "Docker",
         "type": "technology"
       },
