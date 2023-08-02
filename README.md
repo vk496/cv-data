@@ -2,12 +2,12 @@
 
 # Valentin Kivachuk Burda's CV
 
-This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/a68e69a1-c1b6-4692-817c-1b3ae1bce306).
+This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/vk496).
 <br/>
 <br/>
 
 <div align='center'>
-  <img src='https://img.shields.io/static/v1?label=CV%20Last%20Sync&message=2023-08-02 22:00 UTC&color=brightgreen&style=for-the-badge'>
+  <img src='https://img.shields.io/static/v1?label=CV%20Last%20Sync&message=2023-08-02 22:01 UTC&color=brightgreen&style=for-the-badge'>
   <a href='https://github.com/getmanfred/mac'>
     <img src='https://img.shields.io/static/v1?label=MAC%20Version&message=0.3&color=brightgreen&style=for-the-badge'>
   </a>
