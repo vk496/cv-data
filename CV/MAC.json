@@ -207,6 +207,24 @@
       },
       {
         "details": {
+          "name": "CodeCamp 17",
+          "URL": "https://www.um.es/infomun/codecamp/ediciones/2017/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/47072b55-39bc-4047-8177-cd95792ee426_codecamp.png",
+            "alt": "codecamp.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-12-01",
+            "finishDate": "2017-02-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Internal VoIP",
           "description": "Deployment of a VoIP PBX on a home router. Connected to a doorbell, domotic and the PSTN for  notifications and audio when someone is ringing outside."
         },
@@ -243,20 +261,6 @@
               }
             ],
             "finishDate": "2014-06-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "CodeCamp 17",
-          "URL": "https://www.um.es/infomun/codecamp/ediciones/2017/"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2016-12-01",
-            "finishDate": "2017-02-01"
           }
         ]
       }
