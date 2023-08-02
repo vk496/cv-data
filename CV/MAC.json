@@ -322,6 +322,12 @@
       },
       {
         "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Latex",
           "type": "technology"
         }
