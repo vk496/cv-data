@@ -61,6 +61,10 @@
       {
         "organization": {
           "name": "IRT Saint Exupery",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/88922cc1-030c-4e94-bff1-6b41bc02b187_logo_irt-saint-exupe.png",
+            "alt": "logo_IRT-Saint-Exupery.png"
+          },
           "URL": "https://www.irt-saintexupery.com/fr/"
         },
         "roles": [
