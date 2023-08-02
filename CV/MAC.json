@@ -286,6 +286,12 @@
       },
       {
         "skill": {
+          "name": "Latex",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Linux",
           "type": "technology"
         }
@@ -367,10 +373,6 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
-      {
-        "name": "Bash",
-        "type": "technology"
-      },
       {
         "name": "Docker",
         "type": "technology"
