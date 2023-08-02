@@ -27,6 +27,11 @@
             "name": "Internship",
             "startDate": "2018-02-01",
             "finishDate": "2018-08-01",
+            "challenges": [
+              {
+                "description": "Automatization and recollect of internal data, post processing and support internal tools"
+              }
+            ],
             "competences": [
               {
                 "name": "JAVA",
