@@ -334,6 +334,12 @@
       },
       {
         "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Python",
           "type": "technology"
         }
