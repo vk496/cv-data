@@ -176,7 +176,11 @@
       {
         "details": {
           "name": "RITSI",
-          "URL": "https://ritsi.org"
+          "URL": "https://ritsi.org",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/ed8dc33f-3ba1-45af-8d23-ac190a7d8783_2560px-ritsi-logo.png",
+            "alt": "2560px-RITSI-logo.svg.png"
+          }
         },
         "type": "sideProject",
         "roles": [
