@@ -158,7 +158,11 @@
       {
         "details": {
           "name": "Women Techmaker Murcia",
-          "URL": "http://2016.wtmmurcia.com/"
+          "URL": "http://2016.wtmmurcia.com/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/8400bbcb-60e3-4393-b423-a44eb23ef52a_wtm_header1.jpg",
+            "alt": "wtm_header1.jpg"
+          }
         },
         "type": "sideProject",
         "roles": [
