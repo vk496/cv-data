@@ -27,6 +27,10 @@
       {
         "organization": {
           "name": "Amazon",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/44ae1cba-b5d5-49d9-8674-6d39c7e9cdd8_embleme-amazon.jpg",
+            "alt": "Emblème-Amazon.jpg"
+          },
           "URL": "https://www.amazon.com/"
         },
         "roles": [
