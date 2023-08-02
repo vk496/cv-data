@@ -313,6 +313,12 @@
           "name": "Python",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Rust",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
