@@ -322,6 +322,12 @@
       },
       {
         "skill": {
+          "name": "Ruby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Rust",
           "type": "technology"
         }
