@@ -328,6 +328,12 @@
       },
       {
         "skill": {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Rust",
           "type": "technology"
         }
