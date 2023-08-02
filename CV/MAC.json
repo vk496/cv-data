@@ -157,6 +157,26 @@
     "projects": [
       {
         "details": {
+          "name": "RITSI",
+          "URL": "https://ritsi.org"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2015-02-01",
+            "competences": [
+              {
+                "name": "Jira",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2017-06-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "CodeCamp 18",
           "URL": "https://www.um.es/infomun/codecamp/ediciones/2018/",
           "image": {
@@ -512,6 +532,9 @@
       },
       {
         "name": "LINSET"
+      },
+      {
+        "name": "RITSI"
       },
       {
         "name": "Zigbee2Mqtt"
