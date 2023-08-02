@@ -169,6 +169,24 @@
     "projects": [
       {
         "details": {
+          "name": "CodeCamp 17",
+          "URL": "https://www.um.es/infomun/codecamp/ediciones/2017/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/47072b55-39bc-4047-8177-cd95792ee426_codecamp.png",
+            "alt": "codecamp.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-10-01",
+            "finishDate": "2017-02-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Women Techmaker Murcia",
           "URL": "http://2016.wtmmurcia.com/",
           "image": {
@@ -274,24 +292,6 @@
               }
             ],
             "finishDate": "2021-02-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "CodeCamp 17",
-          "URL": "https://www.um.es/infomun/codecamp/ediciones/2017/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/47072b55-39bc-4047-8177-cd95792ee426_codecamp.png",
-            "alt": "codecamp.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2016-12-01",
-            "finishDate": "2017-02-01"
           }
         ]
       },
