@@ -310,6 +310,12 @@
       },
       {
         "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Latex",
           "type": "technology"
         }
