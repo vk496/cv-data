@@ -19,6 +19,61 @@
     "jobs": [
       {
         "organization": {
+          "name": "IRT Saint Exupery",
+          "URL": "https://www.irt-saintexupery.com/fr/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2019-09-01",
+            "finishDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "Go",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Jupyter",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "NoSQL",
+                "type": "technology"
+              },
+              {
+                "name": "PyTorch",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Rust",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "NXP Semiconductors",
           "URL": "https://www.nxp.com/company/about-nxp/worldwide-locations/france:FRANCE"
         },
