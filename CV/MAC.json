@@ -28,7 +28,15 @@
             "startDate": "2022-09-01",
             "competences": [
               {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
                 "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
                 "type": "technology"
               },
               {
