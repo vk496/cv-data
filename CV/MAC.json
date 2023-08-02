@@ -13,7 +13,14 @@
         "notes": "Autocompleted using Google Maps API (id: ChIJMVd4MymgVA0R99lHx5Y__Ws)",
         "country": "Francia"
       }
-    }
+    },
+    "recommendations": [
+      {
+        "title": "Safe Elliptic Curves",
+        "type": "other",
+        "URL": "https://safecurves.cr.yp.to/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -375,6 +382,11 @@
       },
       {
         "name": "Zisofs2"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "Safe Elliptic Curves"
       }
     ]
   }
