@@ -19,6 +19,28 @@
     "jobs": [
       {
         "organization": {
+          "name": "Amazon",
+          "URL": "https://www.amazon.com/"
+        },
+        "roles": [
+          {
+            "name": "System Engineer",
+            "startDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "IRT Saint Exupery",
           "URL": "https://www.irt-saintexupery.com/fr/"
         },
