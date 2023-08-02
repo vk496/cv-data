@@ -169,6 +169,34 @@
     "projects": [
       {
         "details": {
+          "name": "SeguridadWireless maintainer",
+          "URL": "https://www.seguridadwireless.net/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/e2d4a5c1-78d6-4a22-b636-9fec2a505b7f_fe9fb6ec901ef2e9af33.png",
+            "alt": "fe9fb6ec901ef2e9af33fcc33a289582_400x400.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2013-01-01",
+            "competences": [
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Wireshark",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2017-06-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "LINSET",
           "description": "A social engineering tool for audit wireless WPA/WPA2 networks",
           "URL": "https://github.com/vk496/linset",
@@ -573,6 +601,9 @@
       },
       {
         "name": "RITSI"
+      },
+      {
+        "name": "SeguridadWireless maintainer"
       },
       {
         "name": "Women Techmaker Murcia"
