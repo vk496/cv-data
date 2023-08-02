@@ -120,6 +120,10 @@
       {
         "organization": {
           "name": "NXP Semiconductors",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/2f575f80-557f-4e1c-878c-57213a1462d0_nxp-logo.png",
+            "alt": "NXP-Logo.svg.png"
+          },
           "URL": "https://www.nxp.com/company/about-nxp/worldwide-locations/france:FRANCE"
         },
         "roles": [
