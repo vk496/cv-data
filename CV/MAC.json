@@ -274,6 +274,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Docker",
           "type": "technology"
         }
@@ -367,6 +373,10 @@
       },
       {
         "name": "Linux",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
         "type": "technology"
       }
     ],
