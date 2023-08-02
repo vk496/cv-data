@@ -169,7 +169,7 @@
     "projects": [
       {
         "details": {
-          "name": "SeguridadWireless maintainer",
+          "name": "SeguridadWireless developer",
           "URL": "https://www.seguridadwireless.net/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/e2d4a5c1-78d6-4a22-b636-9fec2a505b7f_fe9fb6ec901ef2e9af33.png",
@@ -603,7 +603,7 @@
         "name": "RITSI"
       },
       {
-        "name": "SeguridadWireless maintainer"
+        "name": "SeguridadWireless developer"
       },
       {
         "name": "Women Techmaker Murcia"
