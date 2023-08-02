@@ -157,6 +157,20 @@
     "projects": [
       {
         "details": {
+          "name": "Women Techmaker Murcia",
+          "URL": "http://2016.wtmmurcia.com/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-01-01",
+            "finishDate": "2016-04-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "RITSI",
           "URL": "https://ritsi.org"
         },
@@ -535,6 +549,9 @@
       },
       {
         "name": "RITSI"
+      },
+      {
+        "name": "Women Techmaker Murcia"
       },
       {
         "name": "Zigbee2Mqtt"
