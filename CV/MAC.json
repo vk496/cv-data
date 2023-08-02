@@ -304,6 +304,12 @@
       },
       {
         "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Latex",
           "type": "technology"
         }
