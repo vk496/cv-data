@@ -32,6 +32,10 @@
                 "type": "technology"
               },
               {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
                 "name": "Ruby",
                 "type": "technology"
               }
