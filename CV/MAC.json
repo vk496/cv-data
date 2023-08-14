@@ -169,6 +169,31 @@
     "projects": [
       {
         "details": {
+          "name": "OpenWrt developer",
+          "description": "Maintained OpenWrt packages and developed support for new router devices",
+          "URL": "https://openwrt.org/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/043f98fb-87f4-4c23-866c-4d8588d93dbe_2560px-openwrt_logo.png",
+            "alt": "2560px-OpenWrt_Logo.svg.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-01-01",
+            "competences": [
+              {
+                "name": "Linux",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2019-12-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "LINSET",
           "description": "Created first automated social engineering tool for audit wireless WPA/WPA2 networks",
           "URL": "https://github.com/vk496/linset",
@@ -256,30 +281,6 @@
               }
             ],
             "finishDate": "2017-06-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "OpenWrt developer",
-          "URL": "https://openwrt.org/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/043f98fb-87f4-4c23-866c-4d8588d93dbe_2560px-openwrt_logo.png",
-            "alt": "2560px-OpenWrt_Logo.svg.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2014-01-01",
-            "competences": [
-              {
-                "name": "Linux",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2019-12-01"
           }
         ]
       },
