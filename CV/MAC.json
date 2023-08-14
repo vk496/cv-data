@@ -282,7 +282,8 @@
       },
       {
         "details": {
-          "name": "RITSI",
+          "name": "RITSI - National student representation",
+          "description": "Represented my University in Spanish national organism of Computer Science students",
           "URL": "https://ritsi.org",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/ed8dc33f-3ba1-45af-8d23-ac190a7d8783_2560px-ritsi-logo.png",
@@ -627,7 +628,7 @@
         "name": "OpenWrt developer"
       },
       {
-        "name": "RITSI"
+        "name": "RITSI - National student representation"
       },
       {
         "name": "SeguridadWireless developer"
