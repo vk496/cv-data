@@ -284,7 +284,8 @@
       },
       {
         "details": {
-          "name": "Women Techmaker Murcia",
+          "name": "Google Women Techmaker Murcia",
+          "description": "Volunteer in Google's Women Techmaker",
           "URL": "http://2016.wtmmurcia.com/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/8400bbcb-60e3-4393-b423-a44eb23ef52a_wtm_header1.jpg",
@@ -621,6 +622,9 @@
         "name": "CodeCamp 18"
       },
       {
+        "name": "Google Women Techmaker Murcia"
+      },
+      {
         "name": "Internal VoIP"
       },
       {
@@ -634,9 +638,6 @@
       },
       {
         "name": "SeguridadWireless developer"
-      },
-      {
-        "name": "Women Techmaker Murcia"
       },
       {
         "name": "Zigbee2Mqtt"
