@@ -169,6 +169,31 @@
     "projects": [
       {
         "details": {
+          "name": "LINSET",
+          "description": "Created first automated social engineering tool for audit wireless WPA/WPA2 networks",
+          "URL": "https://github.com/vk496/linset",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/ccc310ca-14de-4069-a03b-3311f4a11b0c_linset-830x463.jpg",
+            "alt": "Linset-830x463.jpg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2013-11-01",
+            "competences": [
+              {
+                "name": "Bash",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2014-06-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "CodeCamp 18",
           "description": "Head organizer of CTF",
           "URL": "https://www.um.es/infomun/codecamp/ediciones/2018/",
@@ -230,31 +255,6 @@
               }
             ],
             "finishDate": "2017-06-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "LINSET",
-          "description": "A social engineering tool for audit wireless WPA/WPA2 networks",
-          "URL": "https://github.com/vk496/linset",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/02/ccc310ca-14de-4069-a03b-3311f4a11b0c_linset-830x463.jpg",
-            "alt": "Linset-830x463.jpg"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2013-11-01",
-            "competences": [
-              {
-                "name": "Bash",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2014-06-01"
           }
         ]
       },
